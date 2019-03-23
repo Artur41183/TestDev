@@ -1,0 +1,27 @@
+
+atlas1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car
+  rotate: false
+  xy: 2, 2
+  size: 264, 500
+  orig: 264, 500
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 504
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+yama
+  rotate: false
+  xy: 1028, 1345
+  size: 192, 183
+  orig: 192, 183
+  offset: 0, 0
+  index: -1
